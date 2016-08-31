@@ -50,4 +50,4 @@
 
     });
     demoAnimation.start(80);
-   视频整理原址：http://www.imooc.com/learn/659 
+   
